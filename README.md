@@ -27,7 +27,7 @@ This implementation serves as:
 
 ---
 
-## 🔧 Prerequisites
+## Prerequisites
 
 ### Required Software
 
